@@ -9,4 +9,7 @@ Context-focused event title and description generator built with Streamlit and O
 - Cost optimization modes
 
 ## Deployment
-Deploy on Streamlit Cloud by connecting to this repository. 
+Deploy on Streamlit Cloud by connecting to this repository.
+
+## About
+This project uses LLM technology to generate context-aware event titles and descriptions. 
